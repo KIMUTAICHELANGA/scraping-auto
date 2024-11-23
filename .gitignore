@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+logs/*
+!logs/.gitkeep
+data/pdf_files/*
+!data/pdf_files/.gitkeep
+data/scraped_data/*
+!data/scraped_data/.gitkeep
+.venv/
+.idea/
+.vscode/
